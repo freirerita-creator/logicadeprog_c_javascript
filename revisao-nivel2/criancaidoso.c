@@ -12,7 +12,6 @@ int main(){
 
 //Para que a lógica funcione, é preciso verificar a condição mais restritiva primeiro (idoso), antes da mais abrangente (maior de idade)
 
-
     if (idade < 18) {
         printf("Voce é menor de idade!\n");
 
@@ -22,7 +21,7 @@ int main(){
     } else {
         printf("Voce é maior de idade.\n");
     }
-    
+
     return 0;
 
     }
