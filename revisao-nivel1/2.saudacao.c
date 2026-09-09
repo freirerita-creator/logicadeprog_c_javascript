@@ -11,7 +11,7 @@ int main (){
     char nome [50];  
     printf("Digite o seu nome:");
 
-//Quando nome é um vetor (array). Não se usa &.
+//Quando nome é um vetor (array). Não se usa & no scanf.
 
     scanf("%s", nome);
 

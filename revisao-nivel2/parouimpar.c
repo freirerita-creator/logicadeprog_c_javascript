@@ -15,6 +15,7 @@ int main (){
 //Colocar parenteses na funcao if
 //Para comparar igualdade em C, usa-se == (dois sinais de igual). Um único = atribui um valor, não compara.
 //numero % 2 == 0, se lê como: "se o resto da divisão de numero por 2 for igual a 0" → ou seja, "se numero for par".
+    
     if (numero % 2 == 0) {
         printf("O numero é par!\n"); 
 
