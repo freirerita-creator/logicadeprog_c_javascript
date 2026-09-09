@@ -1,7 +1,6 @@
 
 
-//.
-Peça a idade e diga se a pessoa é criança, adolescente, adulta ou idosa
+//Peça a idade e diga se a pessoa é criança, adolescente, adulta ou idosa
 
 #include <stdio.h>
 int main(){
