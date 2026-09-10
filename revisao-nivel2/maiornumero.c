@@ -28,7 +28,7 @@ if( numero1 > numero2 && numero1 > numero3) {
 } else {
     printf("O terceiro numero é o maior.\n");
 
-}
+} 
 
 return 0;
 
