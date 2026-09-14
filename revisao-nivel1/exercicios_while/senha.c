@@ -6,8 +6,11 @@
 #include <string.h>
 int main() {
 
-    char senha[20] = "Rf8090@";
+    char senha[20] = "R123f@";
 
-    printf("")
+    printf("Digite a senha:");
+    scanf("%s", senha);
+
+    
 
 
