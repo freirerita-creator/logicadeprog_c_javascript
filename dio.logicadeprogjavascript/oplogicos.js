@@ -1,0 +1,36 @@
+
+
+
+// AND ( && ) os dois precisam ser verdadeiros
+let idade = 18
+let vistoVerificado = false
+let resultado =  (idade >= 18) && (vistoVerificado === true) 
+console.log(resultado)
+
+
+// AND ( && ) - 100 moedas coletadas E 1 item estrela
+let moedasColetadas = 99
+let item = "estrela"
+let resultado = (moedasColetadas >= 100) && (item === "estrela")
+console.log(resultado)
+
+
+
+// OR ( || ) - nosso boneco só pode sair se tiver sem chuva OU com guarda Chuva
+let tempo = "chuva"
+let item = "guarda chuva"
+let podeSair = (tempo !== "chuva") || (item === "guarda chuva")
+console.log("nosso personagem pode sair ? " + podeSair)
+
+
+// NOT  ( !) - nega uma afirmação
+let tempo = "chuva"
+let resultado = tempo === "chuva"
+console.log(!!resultado)
+
+
+// NOT  ( !) - nega uma afirmação
+let tempo = "chuva"
+let horario = 8
+let resultado = !((tempo !== "chuva") && (horario > 6))
+console.log(resultado)
