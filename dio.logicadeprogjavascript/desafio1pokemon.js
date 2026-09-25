@@ -17,7 +17,7 @@ let timePokemon = [
 
 ]
     
-console.log("O pokemon " + timePokemon[1][0] + "tem " + timePokemon[1][2])
+console.log("O pokemon " + timePokemon[1][0] + " tem " + timePokemon[1][1])
 
 
 

@@ -17,4 +17,4 @@ let timePokemon = [
 
 ];
 
-console.log("O pokemon " + timePokemon[0][0] + "é do sexo" + timePokemon[0][1]);
+console.log("O pokemon " + timePokemon[0][0] + " é do sexo " + timePokemon[0][1]);
