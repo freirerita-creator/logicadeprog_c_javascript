@@ -23,13 +23,13 @@ function mainSaveData(){
 //a função main chama as demais funções criadas:
 
 function getData () {
-    //codigo aqui
+    console.log("Pegando dados do usuário...")
 }
 
 function checkValues() {
-    //codigo aqui
+    console.log("Validando dados do usuário...")
 }
 
 function sendToDataBase() {
-    //codigo aqui
+    console.log("Cadastrando dados.")
 }
